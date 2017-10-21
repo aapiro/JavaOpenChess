@@ -1,0 +1,728 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.47 r22583"
+   width="130"
+   height="177"
+   sodipodi:docname="about.svg"
+   inkscape:export-filename="/home/matis/Projects/NetBeansProjects/jchess/src/jchess/resources/about.png"
+   inkscape:export-xdpi="88.139999"
+   inkscape:export-ydpi="88.139999">
+  <metadata
+     id="metadata8">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs6">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3649">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop3651" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0;"
+         offset="1"
+         id="stop3653" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3629">
+      <stop
+         style="stop-color:#04a166;stop-opacity:1;"
+         offset="0"
+         id="stop3631" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="1"
+         id="stop3633" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3616">
+      <stop
+         style="stop-color:#d9d1d1;stop-opacity:1;"
+         offset="0"
+         id="stop3618" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="1"
+         id="stop3620" />
+    </linearGradient>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       id="perspective10" />
+    <inkscape:perspective
+       id="perspective2827"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3616"
+       id="linearGradient3622"
+       x1="65.625"
+       y1="220.5"
+       x2="65.625"
+       y2="-19.5"
+       gradientUnits="userSpaceOnUse" />
+    <filter
+       inkscape:collect="always"
+       id="filter3643">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.63"
+         id="feGaussianBlur3645" />
+    </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3629"
+       id="linearGradient3662"
+       gradientUnits="userSpaceOnUse"
+       x1="-90.75"
+       y1="55.75"
+       x2="-82.5"
+       y2="-6.25" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3649"
+       id="radialGradient3664"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,0.8418929,-0.8701232,24.281793)"
+       cx="29.225252"
+       cy="145.8734"
+       fx="29.225252"
+       fy="145.8734"
+       r="15.325056" />
+    <inkscape:perspective
+       id="perspective3956"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4105"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4176"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4279"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4454"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3629"
+       id="linearGradient4467"
+       gradientUnits="userSpaceOnUse"
+       x1="-90.75"
+       y1="55.75"
+       x2="-82.5"
+       y2="-6.25" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3649"
+       id="radialGradient4469"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,0.8418929,-0.8701232,24.281793)"
+       cx="29.225252"
+       cy="145.8734"
+       fx="29.225252"
+       fy="145.8734"
+       r="15.325056" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3629"
+       id="linearGradient4478"
+       gradientUnits="userSpaceOnUse"
+       x1="-90.75"
+       y1="55.75"
+       x2="-82.5"
+       y2="-6.25" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3649"
+       id="radialGradient4480"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,0.8418929,-0.8701232,24.281793)"
+       cx="29.225252"
+       cy="145.8734"
+       fx="29.225252"
+       fy="145.8734"
+       r="15.325056" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3629"
+       id="linearGradient4494"
+       gradientUnits="userSpaceOnUse"
+       x1="-90.75"
+       y1="55.75"
+       x2="-82.5"
+       y2="-6.25" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3649"
+       id="radialGradient4496"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,0.8418929,-0.8701232,24.281793)"
+       cx="29.225252"
+       cy="145.8734"
+       fx="29.225252"
+       fy="145.8734"
+       r="15.325056" />
+    <inkscape:perspective
+       id="perspective4568"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4675"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3629"
+       id="linearGradient4698"
+       gradientUnits="userSpaceOnUse"
+       x1="-90.75"
+       y1="55.75"
+       x2="-82.5"
+       y2="-6.25" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3649"
+       id="radialGradient4700"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,0.8418929,-0.8701232,24.281793)"
+       cx="29.225252"
+       cy="145.8734"
+       fx="29.225252"
+       fy="145.8734"
+       r="15.325056" />
+    <inkscape:perspective
+       id="perspective4797"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3629"
+       id="linearGradient4822"
+       gradientUnits="userSpaceOnUse"
+       x1="-90.75"
+       y1="55.75"
+       x2="-82.5"
+       y2="-6.25" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3649"
+       id="radialGradient4824"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,0.8418929,-0.8701232,24.281793)"
+       cx="29.225252"
+       cy="145.8734"
+       fx="29.225252"
+       fy="145.8734"
+       r="15.325056" />
+    <inkscape:perspective
+       id="perspective4914"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3629"
+       id="linearGradient4952"
+       gradientUnits="userSpaceOnUse"
+       x1="-90.75"
+       y1="55.75"
+       x2="-82.5"
+       y2="-6.25" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3649"
+       id="radialGradient4954"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,0.8418929,-0.8701232,24.281793)"
+       cx="29.225252"
+       cy="145.8734"
+       fx="29.225252"
+       fy="145.8734"
+       r="15.325056" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3629"
+       id="linearGradient4971"
+       gradientUnits="userSpaceOnUse"
+       x1="-90.75"
+       y1="55.75"
+       x2="-82.5"
+       y2="-6.25" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3649"
+       id="radialGradient4973"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,0.8418929,-0.8701232,24.281793)"
+       cx="29.225252"
+       cy="145.8734"
+       fx="29.225252"
+       fy="145.8734"
+       r="15.325056" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3629"
+       id="linearGradient4983"
+       gradientUnits="userSpaceOnUse"
+       x1="-90.75"
+       y1="55.75"
+       x2="-82.5"
+       y2="-6.25" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3649"
+       id="radialGradient4985"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,0.8418929,-0.8701232,24.281793)"
+       cx="29.225252"
+       cy="145.8734"
+       fx="29.225252"
+       fy="145.8734"
+       r="15.325056" />
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="748"
+     id="namedview4"
+     showgrid="false"
+     inkscape:zoom="2.8731563"
+     inkscape:cx="26.625"
+     inkscape:cy="89.812885"
+     inkscape:window-x="-3"
+     inkscape:window-y="-3"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer3" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="a"
+     sodipodi:insensitive="true"
+     style="display:none">
+    <image
+       xlink:href="file:///home/matis/Projects/NetBeansProjects/jchess/src/jchess/resources/about.png"
+       width="130"
+       height="177"
+       id="image12"
+       x="0"
+       y="0" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="b"
+     sodipodi:insensitive="true">
+    <rect
+       style="fill:url(#linearGradient3622);fill-opacity:1;stroke:none"
+       id="rect2842"
+       width="132.75"
+       height="181.5"
+       x="-0.75"
+       y="-0.75" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="kolka">
+    <g
+       id="g3657"
+       transform="translate(-2.436345,8.0051335)">
+      <path
+         sodipodi:type="arc"
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-opacity:1;filter:url(#filter3643)"
+         id="path3639"
+         sodipodi:cx="-90.75"
+         sodipodi:cy="24"
+         sodipodi:rx="21"
+         sodipodi:ry="21"
+         d="m -69.75,24 c 0,11.59798 -9.40202,21 -21,21 -11.59798,0 -21,-9.40202 -21,-21 0,-11.59798 9.40202,-21 21,-21 11.59798,0 21,9.40202 21,21 z"
+         transform="translate(124.5,115.25)" />
+      <path
+         transform="translate(124.32598,114.99025)"
+         d="m -69.75,24 c 0,11.59798 -9.40202,21 -21,21 -11.59798,0 -21,-9.40202 -21,-21 0,-11.59798 9.40202,-21 21,-21 11.59798,0 21,9.40202 21,21 z"
+         sodipodi:ry="21"
+         sodipodi:rx="21"
+         sodipodi:cy="24"
+         sodipodi:cx="-90.75"
+         id="path3627"
+         style="fill:url(#linearGradient3662);fill-opacity:1;stroke:#0b7d2b;stroke-width:0.5;stroke-opacity:1"
+         sodipodi:type="arc" />
+      <path
+         sodipodi:nodetypes="cccc"
+         id="path3647"
+         d="M 25.581622,158.0313 C 11.90279,148.599 12.789529,134.10016 13.225872,134.18993 c 11.414957,6.06525 7.715611,20.75754 30.454313,19.66479 -2.372461,4.98904 -10.821941,8.52272 -18.098563,4.17658 z"
+         style="opacity:0.7890625;fill:url(#radialGradient3664);fill-opacity:1;stroke:none" />
+    </g>
+    <image
+       y="129.99307"
+       x="15.135266"
+       id="image4178"
+       height="32.028748"
+       width="32.028748"
+       xlink:href="file:///home/matis/Pobrane/szachy-stare/theme/default/images/King-W.png" />
+    <g
+       id="g4460"
+       transform="translate(-6.264887,-2.0882957)">
+      <g
+         id="g4182"
+         transform="matrix(0.67889312,0,0,0.67889312,46.686433,24.527276)">
+        <path
+           sodipodi:type="arc"
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.73649293;stroke-opacity:1;filter:url(#filter3643)"
+           id="path4184"
+           sodipodi:cx="-90.75"
+           sodipodi:cy="24"
+           sodipodi:rx="21"
+           sodipodi:ry="21"
+           d="m -69.75,24 c 0,11.59798 -9.40202,21 -21,21 -11.59798,0 -21,-9.40202 -21,-21 0,-11.59798 9.40202,-21 21,-21 11.59798,0 21,9.40202 21,21 z"
+           transform="translate(124.5,115.25)" />
+        <path
+           transform="translate(124.32598,114.99025)"
+           d="m -69.75,24 c 0,11.59798 -9.40202,21 -21,21 -11.59798,0 -21,-9.40202 -21,-21 0,-11.59798 9.40202,-21 21,-21 11.59798,0 21,9.40202 21,21 z"
+           sodipodi:ry="21"
+           sodipodi:rx="21"
+           sodipodi:cy="24"
+           sodipodi:cx="-90.75"
+           id="path4186"
+           style="fill:url(#linearGradient4467);fill-opacity:1;stroke:#0b7d2b;stroke-width:0.73649293;stroke-opacity:1"
+           sodipodi:type="arc" />
+        <path
+           sodipodi:nodetypes="cccc"
+           id="path4188"
+           d="M 25.581622,158.0313 C 11.90279,148.599 12.789529,134.10016 13.225872,134.18993 c 11.414957,6.06525 7.715611,20.75754 30.454313,19.66479 -2.372461,4.98904 -10.821941,8.52272 -18.098563,4.17658 z"
+           style="opacity:0.7890625;fill:url(#radialGradient4469);fill-opacity:1;stroke:none" />
+      </g>
+      <image
+         xlink:href="file:///home/matis/Pobrane/szachy-stare/theme/default/images/Queen-B.png"
+         width="20.891171"
+         height="20.891171"
+         id="image4281"
+         x="58.989475"
+         y="108.76206" />
+    </g>
+    <g
+       id="g4471"
+       transform="translate(-15.662218,0.69609856)">
+      <g
+         transform="matrix(0.52677532,0,0,0.52677532,70.96312,12.993048)"
+         id="g4285">
+        <path
+           transform="translate(124.5,115.25)"
+           d="m -69.75,24 c 0,11.59798 -9.40202,21 -21,21 -11.59798,0 -21,-9.40202 -21,-21 0,-11.59798 9.40202,-21 21,-21 11.59798,0 21,9.40202 21,21 z"
+           sodipodi:ry="21"
+           sodipodi:rx="21"
+           sodipodi:cy="24"
+           sodipodi:cx="-90.75"
+           id="path4287"
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.94917125;stroke-opacity:1;filter:url(#filter3643)"
+           sodipodi:type="arc" />
+        <path
+           sodipodi:type="arc"
+           style="fill:url(#linearGradient4478);fill-opacity:1;stroke:#0b7d2b;stroke-width:0.94917125;stroke-opacity:1"
+           id="path4289"
+           sodipodi:cx="-90.75"
+           sodipodi:cy="24"
+           sodipodi:rx="21"
+           sodipodi:ry="21"
+           d="m -69.75,24 c 0,11.59798 -9.40202,21 -21,21 -11.59798,0 -21,-9.40202 -21,-21 0,-11.59798 9.40202,-21 21,-21 11.59798,0 21,9.40202 21,21 z"
+           transform="translate(124.32598,114.99025)" />
+        <path
+           style="opacity:0.7890625;fill:url(#radialGradient4480);fill-opacity:1;stroke:none"
+           d="M 25.581622,158.0313 C 11.90279,148.599 12.789529,134.10016 13.225872,134.18993 c 11.414957,6.06525 7.715611,20.75754 30.454313,19.66479 -2.372461,4.98904 -10.821941,8.52272 -18.098563,4.17658 z"
+           id="path4291"
+           sodipodi:nodetypes="cccc" />
+      </g>
+      <image
+         xlink:href="file:///home/matis/Pobrane/szachy-stare/theme/default/images/Rook-W.png"
+         width="15.322383"
+         height="15.322383"
+         id="image4456"
+         x="80.568535"
+         y="78.133728" />
+    </g>
+    <g
+       id="g4702">
+      <g
+         id="g4484"
+         transform="matrix(0.36021983,0,0,0.36021983,51.872869,14.606845)">
+        <path
+           sodipodi:type="arc"
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.38804126;stroke-opacity:1;filter:url(#filter3643)"
+           id="path4486"
+           sodipodi:cx="-90.75"
+           sodipodi:cy="24"
+           sodipodi:rx="21"
+           sodipodi:ry="21"
+           d="m -69.75,24 c 0,11.59798 -9.40202,21 -21,21 -11.59798,0 -21,-9.40202 -21,-21 0,-11.59798 9.40202,-21 21,-21 11.59798,0 21,9.40202 21,21 z"
+           transform="translate(124.5,115.25)" />
+        <path
+           transform="translate(124.32598,114.99025)"
+           d="m -69.75,24 c 0,11.59798 -9.40202,21 -21,21 -11.59798,0 -21,-9.40202 -21,-21 0,-11.59798 9.40202,-21 21,-21 11.59798,0 21,9.40202 21,21 z"
+           sodipodi:ry="21"
+           sodipodi:rx="21"
+           sodipodi:cy="24"
+           sodipodi:cx="-90.75"
+           id="path4488"
+           style="fill:url(#linearGradient4494);fill-opacity:1;stroke:#0b7d2b;stroke-width:1.38804126;stroke-opacity:1"
+           sodipodi:type="arc" />
+        <path
+           sodipodi:nodetypes="cccc"
+           id="path4490"
+           d="M 25.581622,158.0313 C 11.90279,148.599 12.789529,134.10016 13.225872,134.18993 c 11.414957,6.06525 7.715611,20.75754 30.454313,19.66479 -2.372461,4.98904 -10.821941,8.52272 -18.098563,4.17658 z"
+           style="opacity:0.7890625;fill:url(#radialGradient4496);fill-opacity:1;stroke:none" />
+      </g>
+      <image
+         xlink:href="file:///home/matis/Pobrane/szachy-stare/theme/default/images/Knight-B.png"
+         width="11.14579"
+         height="11.14579"
+         id="image4677"
+         x="58.468163"
+         y="58.65913" />
+    </g>
+    <g
+       id="g4803">
+      <g
+         transform="matrix(0.36021983,0,0,0.36021983,37.254799,-0.011224)"
+         id="g4681">
+        <path
+           transform="translate(124.5,115.25)"
+           d="m -69.75,24 c 0,11.59798 -9.40202,21 -21,21 -11.59798,0 -21,-9.40202 -21,-21 0,-11.59798 9.40202,-21 21,-21 11.59798,0 21,9.40202 21,21 z"
+           sodipodi:ry="21"
+           sodipodi:rx="21"
+           sodipodi:cy="24"
+           sodipodi:cx="-90.75"
+           id="path4683"
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.38804126;stroke-opacity:1;filter:url(#filter3643)"
+           sodipodi:type="arc" />
+        <path
+           sodipodi:type="arc"
+           style="fill:url(#linearGradient4698);fill-opacity:1;stroke:#0b7d2b;stroke-width:1.38804126;stroke-opacity:1"
+           id="path4685"
+           sodipodi:cx="-90.75"
+           sodipodi:cy="24"
+           sodipodi:rx="21"
+           sodipodi:ry="21"
+           d="m -69.75,24 c 0,11.59798 -9.40202,21 -21,21 -11.59798,0 -21,-9.40202 -21,-21 0,-11.59798 9.40202,-21 21,-21 11.59798,0 21,9.40202 21,21 z"
+           transform="translate(124.32598,114.99025)" />
+        <path
+           style="opacity:0.7890625;fill:url(#radialGradient4700);fill-opacity:1;stroke:none"
+           d="M 25.581622,158.0313 C 11.90279,148.599 12.789529,134.10016 13.225872,134.18993 c 11.414957,6.06525 7.715611,20.75754 30.454313,19.66479 -2.372461,4.98904 -10.821941,8.52272 -18.098563,4.17658 z"
+           id="path4687"
+           sodipodi:nodetypes="cccc" />
+      </g>
+      <image
+         xlink:href="file:///home/matis/Pobrane/szachy-stare/theme/default/images/Bishop-W.png"
+         width="11.14579"
+         height="11.14579"
+         id="image4799"
+         x="43.50206"
+         y="43.433266" />
+    </g>
+    <g
+       id="g4956">
+      <g
+         id="g4812"
+         transform="matrix(0.36021983,0,0,0.36021983,21.592581,-14.629294)">
+        <path
+           sodipodi:type="arc"
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.38804126;stroke-opacity:1;filter:url(#filter3643)"
+           id="path4814"
+           sodipodi:cx="-90.75"
+           sodipodi:cy="24"
+           sodipodi:rx="21"
+           sodipodi:ry="21"
+           d="m -69.75,24 c 0,11.59798 -9.40202,21 -21,21 -11.59798,0 -21,-9.40202 -21,-21 0,-11.59798 9.40202,-21 21,-21 11.59798,0 21,9.40202 21,21 z"
+           transform="translate(124.5,115.25)" />
+        <path
+           transform="translate(124.32598,114.99025)"
+           d="m -69.75,24 c 0,11.59798 -9.40202,21 -21,21 -11.59798,0 -21,-9.40202 -21,-21 0,-11.59798 9.40202,-21 21,-21 11.59798,0 21,9.40202 21,21 z"
+           sodipodi:ry="21"
+           sodipodi:rx="21"
+           sodipodi:cy="24"
+           sodipodi:cx="-90.75"
+           id="path4816"
+           style="fill:url(#linearGradient4822);fill-opacity:1;stroke:#0b7d2b;stroke-width:1.38804126;stroke-opacity:1"
+           sodipodi:type="arc" />
+        <path
+           sodipodi:nodetypes="cccc"
+           id="path4818"
+           d="M 25.581622,158.0313 C 11.90279,148.599 12.789529,134.10016 13.225872,134.18993 c 11.414957,6.06525 7.715611,20.75754 30.454313,19.66479 -2.372461,4.98904 -10.821941,8.52272 -18.098563,4.17658 z"
+           style="opacity:0.7890625;fill:url(#radialGradient4824);fill-opacity:1;stroke:none" />
+      </g>
+      <image
+         xlink:href="file:///home/matis/Pobrane/szachy-stare/theme/default/images/Pawn-B.png"
+         width="10.449692"
+         height="10.449692"
+         id="image4916"
+         x="28.361137"
+         y="29.754875" />
+    </g>
+    <g
+       id="g4944"
+       transform="matrix(0.18024105,0,0,0.18024105,14.440992,3.1237172)">
+      <path
+         sodipodi:type="arc"
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.77406287;stroke-opacity:1;filter:url(#filter3643)"
+         id="path4946"
+         sodipodi:cx="-90.75"
+         sodipodi:cy="24"
+         sodipodi:rx="21"
+         sodipodi:ry="21"
+         d="m -69.75,24 c 0,11.59798 -9.40202,21 -21,21 -11.59798,0 -21,-9.40202 -21,-21 0,-11.59798 9.40202,-21 21,-21 11.59798,0 21,9.40202 21,21 z"
+         transform="translate(124.5,115.25)" />
+      <path
+         transform="translate(124.32598,114.99025)"
+         d="m -69.75,24 c 0,11.59798 -9.40202,21 -21,21 -11.59798,0 -21,-9.40202 -21,-21 0,-11.59798 9.40202,-21 21,-21 11.59798,0 21,9.40202 21,21 z"
+         sodipodi:ry="21"
+         sodipodi:rx="21"
+         sodipodi:cy="24"
+         sodipodi:cx="-90.75"
+         id="path4948"
+         style="fill:url(#linearGradient4952);fill-opacity:1;stroke:#0b7d2b;stroke-width:2.77406287;stroke-opacity:1"
+         sodipodi:type="arc" />
+      <path
+         sodipodi:nodetypes="cccc"
+         id="path4950"
+         d="M 25.581622,158.0313 C 11.90279,148.599 12.789529,134.10016 13.225872,134.18993 c 11.414957,6.06525 7.715611,20.75754 30.454313,19.66479 -2.372461,4.98904 -10.821941,8.52272 -18.098563,4.17658 z"
+         style="opacity:0.7890625;fill:url(#radialGradient4954);fill-opacity:1;stroke:none" />
+    </g>
+    <g
+       transform="matrix(0.12198776,0,0,0.12198776,13.622646,2.8823045)"
+       id="g4963">
+      <path
+         transform="translate(124.5,115.25)"
+         d="m -69.75,24 c 0,11.59798 -9.40202,21 -21,21 -11.59798,0 -21,-9.40202 -21,-21 0,-11.59798 9.40202,-21 21,-21 11.59798,0 21,9.40202 21,21 z"
+         sodipodi:ry="21"
+         sodipodi:rx="21"
+         sodipodi:cy="24"
+         sodipodi:cx="-90.75"
+         id="path4965"
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:4.09877157;stroke-opacity:1;filter:url(#filter3643)"
+         sodipodi:type="arc" />
+      <path
+         sodipodi:type="arc"
+         style="fill:url(#linearGradient4971);fill-opacity:1;stroke:#0b7d2b;stroke-width:4.09877157;stroke-opacity:1"
+         id="path4967"
+         sodipodi:cx="-90.75"
+         sodipodi:cy="24"
+         sodipodi:rx="21"
+         sodipodi:ry="21"
+         d="m -69.75,24 c 0,11.59798 -9.40202,21 -21,21 -11.59798,0 -21,-9.40202 -21,-21 0,-11.59798 9.40202,-21 21,-21 11.59798,0 21,9.40202 21,21 z"
+         transform="translate(124.32598,114.99025)" />
+      <path
+         style="opacity:0.7890625;fill:url(#radialGradient4973);fill-opacity:1;stroke:none"
+         d="M 25.581622,158.0313 C 11.90279,148.599 12.789529,134.10016 13.225872,134.18993 c 11.414957,6.06525 7.715611,20.75754 30.454313,19.66479 -2.372461,4.98904 -10.821941,8.52272 -18.098563,4.17658 z"
+         id="path4969"
+         sodipodi:nodetypes="cccc" />
+    </g>
+    <g
+       id="g4975"
+       transform="matrix(0.12198776,0,0,0.12198776,16.40704,-5.8189275)">
+      <path
+         sodipodi:type="arc"
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:4.09877157;stroke-opacity:1;filter:url(#filter3643)"
+         id="path4977"
+         sodipodi:cx="-90.75"
+         sodipodi:cy="24"
+         sodipodi:rx="21"
+         sodipodi:ry="21"
+         d="m -69.75,24 c 0,11.59798 -9.40202,21 -21,21 -11.59798,0 -21,-9.40202 -21,-21 0,-11.59798 9.40202,-21 21,-21 11.59798,0 21,9.40202 21,21 z"
+         transform="translate(124.5,115.25)" />
+      <path
+         transform="translate(124.32598,114.99025)"
+         d="m -69.75,24 c 0,11.59798 -9.40202,21 -21,21 -11.59798,0 -21,-9.40202 -21,-21 0,-11.59798 9.40202,-21 21,-21 11.59798,0 21,9.40202 21,21 z"
+         sodipodi:ry="21"
+         sodipodi:rx="21"
+         sodipodi:cy="24"
+         sodipodi:cx="-90.75"
+         id="path4979"
+         style="fill:url(#linearGradient4983);fill-opacity:1;stroke:#0b7d2b;stroke-width:4.09877157;stroke-opacity:1"
+         sodipodi:type="arc" />
+      <path
+         sodipodi:nodetypes="cccc"
+         id="path4981"
+         d="M 25.581622,158.0313 C 11.90279,148.599 12.789529,134.10016 13.225872,134.18993 c 11.414957,6.06525 7.715611,20.75754 30.454313,19.66479 -2.372461,4.98904 -10.821941,8.52272 -18.098563,4.17658 z"
+         style="opacity:0.7890625;fill:url(#radialGradient4985);fill-opacity:1;stroke:none" />
+    </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4936"
+       style="font-size:20px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Flores;-inkscape-font-specification:Flores"
+       transform="matrix(0.58710615,0,0,0.58710615,20.072088,-1.0978219)"><flowRegion
+         id="flowRegion4938"><rect
+           id="rect4940"
+           width="167.75975"
+           height="25.059549"
+           x="2.0882957"
+           y="4.0195074" /></flowRegion><flowPara
+         id="flowPara4942">Java Open Chess</flowPara></flowRoot>  </g>
+</svg>
